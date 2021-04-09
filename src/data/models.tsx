@@ -1,4 +1,4 @@
-export interface FundInfo {
+export interface fundInfo {
     managers: [{
         firstName: string,
         lastName: string,
