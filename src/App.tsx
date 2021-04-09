@@ -1,7 +1,6 @@
 import React from 'react';
-
+import "hammerjs";
 import './App.scss';
-import './styles/layout.scss'
 import Dashboard from './Dashboard';
 
 function App() {
